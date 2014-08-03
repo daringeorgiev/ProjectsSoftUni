@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework2\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Projects\IntroProgrammingHomework2\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Projects\IntroProgrammingHomework2\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Projects\IntroProgrammingHomework2\BooleanVariable\obj\Debug\BooleanVariable.pdb

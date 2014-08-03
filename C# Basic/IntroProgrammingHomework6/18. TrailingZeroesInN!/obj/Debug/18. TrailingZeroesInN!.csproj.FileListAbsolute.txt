@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework6\18. TrailingZeroesInN!\bin\Debug\_18.TrailingZeroesInN_.exe
+C:\Projects\IntroProgrammingHomework6\18. TrailingZeroesInN!\bin\Debug\_18.TrailingZeroesInN_.pdb
+C:\Projects\IntroProgrammingHomework6\18. TrailingZeroesInN!\obj\Debug\18. TrailingZeroesInN!.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework6\18. TrailingZeroesInN!\obj\Debug\_18.TrailingZeroesInN_.exe
+C:\Projects\IntroProgrammingHomework6\18. TrailingZeroesInN!\obj\Debug\_18.TrailingZeroesInN_.pdb

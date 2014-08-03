@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework3\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework3\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe
+C:\Projects\IntroProgrammingHomework3\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.pdb
+C:\Projects\IntroProgrammingHomework3\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.exe
+C:\Projects\IntroProgrammingHomework3\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.pdb

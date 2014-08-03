@@ -1,0 +1,6 @@
+C:\Projects\JavaScript\DOMandEvents\DOMandEvents\bin\DOMandEvents.dll.config
+C:\Projects\JavaScript\DOMandEvents\DOMandEvents\bin\DOMandEvents.dll
+C:\Projects\JavaScript\DOMandEvents\DOMandEvents\bin\DOMandEvents.pdb
+C:\Projects\JavaScript\DOMandEvents\DOMandEvents\obj\Debug\DOMandEvents.csprojResolveAssemblyReference.cache
+C:\Projects\JavaScript\DOMandEvents\DOMandEvents\obj\Debug\DOMandEvents.dll
+C:\Projects\JavaScript\DOMandEvents\DOMandEvents\obj\Debug\DOMandEvents.pdb

@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework2\UnicodeValue\bin\Debug\UnicodeValue.exe
+C:\Projects\IntroProgrammingHomework2\UnicodeValue\bin\Debug\UnicodeValue.pdb
+C:\Projects\IntroProgrammingHomework2\UnicodeValue\obj\Debug\UnicodeValue.exe
+C:\Projects\IntroProgrammingHomework2\UnicodeValue\obj\Debug\UnicodeValue.pdb

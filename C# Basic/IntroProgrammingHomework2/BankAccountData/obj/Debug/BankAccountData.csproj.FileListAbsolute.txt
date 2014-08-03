@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework2\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Projects\IntroProgrammingHomework2\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Projects\IntroProgrammingHomework2\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Projects\IntroProgrammingHomework2\BankAccountData\obj\Debug\BankAccountData.pdb

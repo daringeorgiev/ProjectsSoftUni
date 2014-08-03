@@ -1,0 +1,17 @@
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\sqrt\bin\Debug\sqrt.exe.config
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\sqrt\bin\Debug\sqrt.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\sqrt\bin\Debug\sqrt.pdb
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\sqrt\obj\Debug\sqrt.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\sqrt\obj\Debug\sqrt.pdb
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\sqrt\obj\Debug\sqrt.csprojResolveAssemblyReference.cache
+C:\Projects\Answers of lection 1\sqrt\bin\Debug\sqrt.exe.config
+C:\Projects\Answers of lection 1\sqrt\obj\Debug\sqrt.exe
+C:\Projects\Answers of lection 1\sqrt\obj\Debug\sqrt.pdb
+C:\Projects\Answers of lection 1\sqrt\bin\Debug\sqrt.exe
+C:\Projects\Answers of lection 1\sqrt\bin\Debug\sqrt.pdb
+C:\Projects\Answers of lection 1\sqrt\obj\Debug\Sqrt.csprojResolveAssemblyReference.cache
+C:\Projects\Intro-Programming-Homework\sqrt\bin\Debug\sqrt.exe
+C:\Projects\Intro-Programming-Homework\sqrt\bin\Debug\sqrt.pdb
+C:\Projects\Intro-Programming-Homework\sqrt\obj\Debug\Sqrt.csprojResolveAssemblyReference.cache
+C:\Projects\Intro-Programming-Homework\sqrt\obj\Debug\sqrt.exe
+C:\Projects\Intro-Programming-Homework\sqrt\obj\Debug\sqrt.pdb

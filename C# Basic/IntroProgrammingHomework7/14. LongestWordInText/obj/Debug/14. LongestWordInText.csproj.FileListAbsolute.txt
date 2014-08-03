@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework7\14. LongestWordInText\obj\Debug\14. LongestWordInText.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework7\14. LongestWordInText\bin\Debug\_14.LongestWordInText.exe
+C:\Projects\IntroProgrammingHomework7\14. LongestWordInText\bin\Debug\_14.LongestWordInText.pdb
+C:\Projects\IntroProgrammingHomework7\14. LongestWordInText\obj\Debug\_14.LongestWordInText.exe
+C:\Projects\IntroProgrammingHomework7\14. LongestWordInText\obj\Debug\_14.LongestWordInText.pdb

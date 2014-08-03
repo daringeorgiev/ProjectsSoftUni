@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework6\16. DecimalToHexadecimalNumber\bin\Debug\_16.DecimalToHexadecimalNumber.exe
+C:\Projects\IntroProgrammingHomework6\16. DecimalToHexadecimalNumber\bin\Debug\_16.DecimalToHexadecimalNumber.pdb
+C:\Projects\IntroProgrammingHomework6\16. DecimalToHexadecimalNumber\obj\Debug\16. DecimalToHexadecimalNumber.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework6\16. DecimalToHexadecimalNumber\obj\Debug\_16.DecimalToHexadecimalNumber.exe
+C:\Projects\IntroProgrammingHomework6\16. DecimalToHexadecimalNumber\obj\Debug\_16.DecimalToHexadecimalNumber.pdb

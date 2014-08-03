@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework5\6. TheBiggestOf5Numbers\bin\Debug\_6.TheBiggestOf5Numbers.exe
+C:\Projects\IntroProgrammingHomework5\6. TheBiggestOf5Numbers\bin\Debug\_6.TheBiggestOf5Numbers.pdb
+C:\Projects\IntroProgrammingHomework5\6. TheBiggestOf5Numbers\obj\Debug\_6.TheBiggestOf5Numbers.exe
+C:\Projects\IntroProgrammingHomework5\6. TheBiggestOf5Numbers\obj\Debug\_6.TheBiggestOf5Numbers.pdb

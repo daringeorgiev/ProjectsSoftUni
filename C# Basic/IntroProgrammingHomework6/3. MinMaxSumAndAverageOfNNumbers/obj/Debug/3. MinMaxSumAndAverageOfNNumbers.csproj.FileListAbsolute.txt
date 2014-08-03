@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework6\3. MinMaxSumAndAverageOfNNumbers\bin\Debug\_3.MinMaxSumAndAverageOfNNumbers.exe
+C:\Projects\IntroProgrammingHomework6\3. MinMaxSumAndAverageOfNNumbers\bin\Debug\_3.MinMaxSumAndAverageOfNNumbers.pdb
+C:\Projects\IntroProgrammingHomework6\3. MinMaxSumAndAverageOfNNumbers\obj\Debug\_3.MinMaxSumAndAverageOfNNumbers.exe
+C:\Projects\IntroProgrammingHomework6\3. MinMaxSumAndAverageOfNNumbers\obj\Debug\_3.MinMaxSumAndAverageOfNNumbers.pdb

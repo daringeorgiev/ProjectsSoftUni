@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework5\IntroProgrammingHomework5\bin\Debug\IntroProgrammingHomework5.exe
+C:\Projects\IntroProgrammingHomework5\IntroProgrammingHomework5\bin\Debug\IntroProgrammingHomework5.pdb
+C:\Projects\IntroProgrammingHomework5\IntroProgrammingHomework5\obj\Debug\1. ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework5\IntroProgrammingHomework5\obj\Debug\IntroProgrammingHomework5.exe
+C:\Projects\IntroProgrammingHomework5\IntroProgrammingHomework5\obj\Debug\IntroProgrammingHomework5.pdb

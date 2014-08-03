@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Kent’s Media Profile</title>
+    <style>
+        h1{
+            text-align:center;
+        }
+        figcaption {
+            font-size:18px;
+            font-weight: bold;
+        }
+        figure{
+            padding: 0px;
+            margin:0px;
+            text-align:left;
+        }
+        section{
+            height: 300px;
+            width: 210px;
+            text-align: left;
+            padding-left: 10px;
+            padding-right: 5px;
+            padding-top:5px;
+            display: inline-block;
+            vertical-align: top;
+            float: left;
+        }
+        meter{
+            height:25px;
+            width: 80%;
+        }
+       
+        audio {
+            margin-top: 10px;
+            padding: 0px;
+            height: 25px;
+            width: 100%;
+        }
+        video {
+            margin-top: 0px;
+            padding: 0px;
+            height: 100%;
+            width: 100%;
+        }
+        embed{
+            width: 100%;
+            height: 80%;
+        }
+        div {
+            background-color: pink;
+            height: 400px;
+            width: 1005px;
+            border-radius: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    
+      
+        <main>
+            <div id="top">
+                <header><h1>Profile</h1></header>
+                <section id="user">
+                    <figure>
+                        <figcaption>User: Kent</figcaption>
+                        <img src="imgs/kent.jpg" />
+                        <p>Profile complited 60%</p>
+                        <meter value="0.6"></meter>
+                    </figure>
+                   
+                </section>
+                <section style="width:350px; " id="audio">
+                    <figure>
+                        <figcaption>Uploaded audio files</figcaption>
+                        <embed src="http://www.centraloutdoors.com/mp3/wolf/alone%20wolf.mp3" type="audio/mpeg">
+                        <audio controls>
+                            <source src="http://www.centraloutdoors.com/mp3/wolf/alone%20wolf.mp3" type="audio/mp3">
+                            Your browser does not support the video tag.
+                        </audio>
+                        <audio controls>
+                            <source src="http://www.centraloutdoors.com/mp3/wolf/alone%20wolf.mp3" type="audio/mp3">
+                            Your browser does not support the video tag.
+                        </audio>
+                        <audio controls>
+                            <source src="http://www.centraloutdoors.com/mp3/wolf/alone%20wolf.mp3" type="audio/mp3">
+                            Your browser does not support the video tag.
+                        </audio>
+                    </figure>
+                    </section>
+                    <section style="width:400px; " id="audio">
+                        <figure>
+                            <figcaption>Uploaded video files</figcaption>
+                            <video controls>
+                                <source src="http://techslides.com/demos/sample-videos/small.mp4">
+                                <track src="http://www.jwplayer.com/wp-content/uploads/html5/assets/captions.vtt" kind="subtitles">
+                            </video>
+                        </figure>
+                    </section>
+            </div>
+    </main>
+</body>
+</html>

@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework3\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Projects\IntroProgrammingHomework3\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+C:\Projects\IntroProgrammingHomework3\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Projects\IntroProgrammingHomework3\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

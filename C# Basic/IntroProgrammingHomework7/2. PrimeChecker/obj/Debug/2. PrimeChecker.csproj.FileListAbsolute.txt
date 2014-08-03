@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework7\2. PrimeChecker\bin\Debug\_2.PrimeChecker.exe
+C:\Projects\IntroProgrammingHomework7\2. PrimeChecker\bin\Debug\_2.PrimeChecker.pdb
+C:\Projects\IntroProgrammingHomework7\2. PrimeChecker\obj\Debug\_2.PrimeChecker.exe
+C:\Projects\IntroProgrammingHomework7\2. PrimeChecker\obj\Debug\_2.PrimeChecker.pdb
+C:\Projects\IntroProgrammingHomework7\2. PrimeChecker\obj\Debug\2. PrimeChecker.csprojResolveAssemblyReference.cache

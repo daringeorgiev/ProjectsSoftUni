@@ -1,0 +1,6 @@
+C:\Projects\JavaScript\DevelopmentIntroduction\DevelopmentIntroduction\bin\DevelopmentIntroduction.dll.config
+C:\Projects\JavaScript\DevelopmentIntroduction\DevelopmentIntroduction\bin\DevelopmentIntroduction.dll
+C:\Projects\JavaScript\DevelopmentIntroduction\DevelopmentIntroduction\bin\DevelopmentIntroduction.pdb
+C:\Projects\JavaScript\DevelopmentIntroduction\DevelopmentIntroduction\obj\Debug\DevelopmentIntroduction.csprojResolveAssemblyReference.cache
+C:\Projects\JavaScript\DevelopmentIntroduction\DevelopmentIntroduction\obj\Debug\DevelopmentIntroduction.dll
+C:\Projects\JavaScript\DevelopmentIntroduction\DevelopmentIntroduction\obj\Debug\DevelopmentIntroduction.pdb

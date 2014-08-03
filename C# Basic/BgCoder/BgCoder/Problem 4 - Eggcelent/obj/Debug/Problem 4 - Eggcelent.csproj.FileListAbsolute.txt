@@ -1,0 +1,5 @@
+C:\Projects\BgCoder\BgCoder\Problem 4 - Eggcelent\bin\Debug\Problem 4 - Eggcelent.exe
+C:\Projects\BgCoder\BgCoder\Problem 4 - Eggcelent\bin\Debug\Problem 4 - Eggcelent.pdb
+C:\Projects\BgCoder\BgCoder\Problem 4 - Eggcelent\obj\Debug\Problem 4 - Eggcelent.csprojResolveAssemblyReference.cache
+C:\Projects\BgCoder\BgCoder\Problem 4 - Eggcelent\obj\Debug\Problem 4 - Eggcelent.exe
+C:\Projects\BgCoder\BgCoder\Problem 4 - Eggcelent\obj\Debug\Problem 4 - Eggcelent.pdb

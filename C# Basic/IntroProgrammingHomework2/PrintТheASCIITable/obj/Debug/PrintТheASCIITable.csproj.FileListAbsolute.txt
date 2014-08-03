@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework2\PrintТheASCIITable\bin\Debug\PrintТheASCIITable.exe
+C:\Projects\IntroProgrammingHomework2\PrintТheASCIITable\bin\Debug\PrintТheASCIITable.pdb
+C:\Projects\IntroProgrammingHomework2\PrintТheASCIITable\obj\Debug\PrintТheASCIITable.exe
+C:\Projects\IntroProgrammingHomework2\PrintТheASCIITable\obj\Debug\PrintТheASCIITable.pdb

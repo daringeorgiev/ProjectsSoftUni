@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework5\8. DigitAsWord\bin\Debug\_8.DigitAsWord.exe
+C:\Projects\IntroProgrammingHomework5\8. DigitAsWord\bin\Debug\_8.DigitAsWord.pdb
+C:\Projects\IntroProgrammingHomework5\8. DigitAsWord\obj\Debug\_8.DigitAsWord.exe
+C:\Projects\IntroProgrammingHomework5\8. DigitAsWord\obj\Debug\_8.DigitAsWord.pdb
+C:\Projects\IntroProgrammingHomework5\8. DigitAsWord\obj\Debug\8. DigitAsWord.csprojResolveAssemblyReference.cache

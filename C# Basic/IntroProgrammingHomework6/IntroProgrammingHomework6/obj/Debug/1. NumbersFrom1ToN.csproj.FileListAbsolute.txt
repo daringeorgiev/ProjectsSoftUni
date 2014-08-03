@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework6\IntroProgrammingHomework6\bin\Debug\IntroProgrammingHomework6.exe
+C:\Projects\IntroProgrammingHomework6\IntroProgrammingHomework6\bin\Debug\IntroProgrammingHomework6.pdb
+C:\Projects\IntroProgrammingHomework6\IntroProgrammingHomework6\obj\Debug\1. NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework6\IntroProgrammingHomework6\obj\Debug\IntroProgrammingHomework6.exe
+C:\Projects\IntroProgrammingHomework6\IntroProgrammingHomework6\obj\Debug\IntroProgrammingHomework6.pdb

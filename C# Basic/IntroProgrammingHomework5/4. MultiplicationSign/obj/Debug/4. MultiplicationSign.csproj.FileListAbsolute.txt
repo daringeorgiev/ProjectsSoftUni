@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework5\4. MultiplicationSign\bin\Debug\_4.MultiplicationSign.exe
+C:\Projects\IntroProgrammingHomework5\4. MultiplicationSign\bin\Debug\_4.MultiplicationSign.pdb
+C:\Projects\IntroProgrammingHomework5\4. MultiplicationSign\obj\Debug\_4.MultiplicationSign.exe
+C:\Projects\IntroProgrammingHomework5\4. MultiplicationSign\obj\Debug\_4.MultiplicationSign.pdb

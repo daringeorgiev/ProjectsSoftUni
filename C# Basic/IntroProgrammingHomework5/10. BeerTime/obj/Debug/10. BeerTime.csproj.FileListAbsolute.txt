@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework5\10. BeerTime\bin\Debug\_10.BeerTime.exe
+C:\Projects\IntroProgrammingHomework5\10. BeerTime\bin\Debug\_10.BeerTime.pdb
+C:\Projects\IntroProgrammingHomework5\10. BeerTime\obj\Debug\10. BeerTime.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework5\10. BeerTime\obj\Debug\_10.BeerTime.exe
+C:\Projects\IntroProgrammingHomework5\10. BeerTime\obj\Debug\_10.BeerTime.pdb

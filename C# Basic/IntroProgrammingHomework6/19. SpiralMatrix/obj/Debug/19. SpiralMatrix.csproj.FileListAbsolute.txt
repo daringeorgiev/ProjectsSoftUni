@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework6\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe
+C:\Projects\IntroProgrammingHomework6\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.pdb
+C:\Projects\IntroProgrammingHomework6\19. SpiralMatrix\obj\Debug\19. SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework6\19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.exe
+C:\Projects\IntroProgrammingHomework6\19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.pdb

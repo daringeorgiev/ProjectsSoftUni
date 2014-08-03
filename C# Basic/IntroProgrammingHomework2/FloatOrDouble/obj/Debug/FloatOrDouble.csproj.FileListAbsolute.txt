@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework2\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Projects\IntroProgrammingHomework2\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Projects\IntroProgrammingHomework2\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Projects\IntroProgrammingHomework2\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
+C:\Projects\IntroProgrammingHomework2\FloatOrDouble\obj\Debug\FloatOrDouble.csprojResolveAssemblyReference.cache

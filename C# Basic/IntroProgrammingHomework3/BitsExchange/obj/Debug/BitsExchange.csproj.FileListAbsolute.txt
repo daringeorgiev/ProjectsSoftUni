@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework3\BitsExchange\bin\Debug\BitsExchange.exe
+C:\Projects\IntroProgrammingHomework3\BitsExchange\bin\Debug\BitsExchange.pdb
+C:\Projects\IntroProgrammingHomework3\BitsExchange\obj\Debug\BitsExchange.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework3\BitsExchange\obj\Debug\BitsExchange.exe
+C:\Projects\IntroProgrammingHomework3\BitsExchange\obj\Debug\BitsExchange.pdb

@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework5\3. CheckForAPlayCard\bin\Debug\_3.CheckForAPlayCard.exe
+C:\Projects\IntroProgrammingHomework5\3. CheckForAPlayCard\bin\Debug\_3.CheckForAPlayCard.pdb
+C:\Projects\IntroProgrammingHomework5\3. CheckForAPlayCard\obj\Debug\_3.CheckForAPlayCard.exe
+C:\Projects\IntroProgrammingHomework5\3. CheckForAPlayCard\obj\Debug\_3.CheckForAPlayCard.pdb

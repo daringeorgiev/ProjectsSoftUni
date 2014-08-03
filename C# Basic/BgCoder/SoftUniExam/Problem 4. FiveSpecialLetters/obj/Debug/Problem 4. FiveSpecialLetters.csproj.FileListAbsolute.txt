@@ -1,0 +1,5 @@
+C:\Projects\BgCoder\SoftUniExam\Problem 4. FiveSpecialLetters\bin\Debug\Problem_4.FiveSpecialLetters.exe
+C:\Projects\BgCoder\SoftUniExam\Problem 4. FiveSpecialLetters\bin\Debug\Problem_4.FiveSpecialLetters.pdb
+C:\Projects\BgCoder\SoftUniExam\Problem 4. FiveSpecialLetters\obj\Debug\Problem 4. FiveSpecialLetters.csprojResolveAssemblyReference.cache
+C:\Projects\BgCoder\SoftUniExam\Problem 4. FiveSpecialLetters\obj\Debug\Problem_4.FiveSpecialLetters.exe
+C:\Projects\BgCoder\SoftUniExam\Problem 4. FiveSpecialLetters\obj\Debug\Problem_4.FiveSpecialLetters.pdb

@@ -1,0 +1,5 @@
+C:\Projects\ExamPractice\ExamPractice\ConsoleApplication1\obj\Debug\SandGlass.csprojResolveAssemblyReference.cache
+C:\Projects\ExamPractice\ExamPractice\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Projects\ExamPractice\ExamPractice\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Projects\ExamPractice\ExamPractice\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Projects\ExamPractice\ExamPractice\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

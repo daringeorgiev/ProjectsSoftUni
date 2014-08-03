@@ -1,0 +1,5 @@
+C:\Projects\BgCoder\BgCoder\Problem 1.  Peace of Cake\bin\Debug\Problem_1.Peace_of_Cake.exe
+C:\Projects\BgCoder\BgCoder\Problem 1.  Peace of Cake\bin\Debug\Problem_1.Peace_of_Cake.pdb
+C:\Projects\BgCoder\BgCoder\Problem 1.  Peace of Cake\obj\Debug\Problem 1.  Peace of Cake.csprojResolveAssemblyReference.cache
+C:\Projects\BgCoder\BgCoder\Problem 1.  Peace of Cake\obj\Debug\Problem_1.Peace_of_Cake.exe
+C:\Projects\BgCoder\BgCoder\Problem 1.  Peace of Cake\obj\Debug\Problem_1.Peace_of_Cake.pdb

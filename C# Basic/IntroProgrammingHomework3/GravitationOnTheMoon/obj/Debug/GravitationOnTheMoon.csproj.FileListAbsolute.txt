@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework3\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.exe
+C:\Projects\IntroProgrammingHomework3\GravitationOnTheMoon\bin\Debug\GravitationOnTheMoon.pdb
+C:\Projects\IntroProgrammingHomework3\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework3\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.exe
+C:\Projects\IntroProgrammingHomework3\GravitationOnTheMoon\obj\Debug\GravitationOnTheMoon.pdb

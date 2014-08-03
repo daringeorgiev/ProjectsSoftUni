@@ -1,0 +1,6 @@
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\Answers of lection 1\bin\Debug\Answers of lection 1.exe.config
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\Answers of lection 1\bin\Debug\Answers of lection 1.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\Answers of lection 1\bin\Debug\Answers of lection 1.pdb
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\Answers of lection 1\obj\Debug\Answers of lection 1.csprojResolveAssemblyReference.cache
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\Answers of lection 1\obj\Debug\Answers of lection 1.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\Answers of lection 1\obj\Debug\Answers of lection 1.pdb

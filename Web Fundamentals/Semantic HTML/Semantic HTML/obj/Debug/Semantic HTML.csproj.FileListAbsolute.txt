@@ -1,0 +1,6 @@
+C:\Projects\Web Fundamentals\Semantic HTML\Semantic HTML\bin\Semantic HTML.dll.config
+C:\Projects\Web Fundamentals\Semantic HTML\Semantic HTML\bin\Semantic HTML.dll
+C:\Projects\Web Fundamentals\Semantic HTML\Semantic HTML\bin\Semantic HTML.pdb
+C:\Projects\Web Fundamentals\Semantic HTML\Semantic HTML\obj\Debug\Semantic HTML.csprojResolveAssemblyReference.cache
+C:\Projects\Web Fundamentals\Semantic HTML\Semantic HTML\obj\Debug\Semantic HTML.dll
+C:\Projects\Web Fundamentals\Semantic HTML\Semantic HTML\obj\Debug\Semantic HTML.pdb

@@ -1,0 +1,199 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Laptop Choice</title>
+    <style>
+        h1 {
+            color: #2f4158;
+            padding-left: 15px;
+        }
+        h3 {
+            color: #2f4158;
+            padding-left: 5px;
+            padding-right: 5px;
+            margin-bottom: 0px;
+        }
+        p {
+            color: #2f4158;
+            padding-left: 5px;
+            padding-right: 5px;
+            font-size: 16px;
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+        .label{
+            color: #2f4158;
+            font-size: 18px;
+            margin-top: 20px;
+            margin-bottom: 0px;
+
+        }
+        
+        .min {
+            color: #2f4158;
+            font-size: 14px;
+            padding-left: 10px;
+            float: left;
+        }
+        .max {
+            color: #2f4158;
+            font-size: 14px;
+            padding-right: 10px;
+            float: right;
+        }
+        .slider{
+            width: 95%;
+            margin-top: 5px;
+        }
+        .sliders {
+            width: 200px;
+            height: 650px;
+            float: left;
+            background-color: #f7fcff;
+            text-align: center;
+            border: 1px;
+            border-style: solid;
+            border-color: #dbeffa;
+        }
+        .laptop {
+            float: left;
+            width: 220px;
+            height: 250px;
+            border-radius: 10px 10px 0px 10px;
+            background-color: white;
+            margin: 5px;
+            border: 1px;
+            border-style: solid;
+            border-color: #dbeffa;
+            position: relative;
+        }
+        .price {
+            width: 150px;
+            height: 40px;
+            background-color: #2f4158;
+            border-radius: 10px 0px 0px 0px;
+            position: absolute;
+            bottom: 0px;
+            right: 0px;
+        }
+        .money{
+            vertical-align: middle;
+            color: white;
+            text-align: center;
+            font-size: 20px;
+            font-family: Verdana;
+        }
+        .img {
+
+            background-image: url("imgs/laptop.jpg");
+            background-position:center;
+            background-repeat:no-repeat;
+            height: 120px;
+            width: 220px;
+           
+        }
+        
+
+    </style>
+</head>
+<body style="font-family: Tahoma;">
+    <div id="head" style="width: 700px; height: 650px; float: left; background-color:white;">
+       <h1>Apples's laptops (6)</h1>
+        <a href="https://softuni.bg/">
+            <div id="laptop1" class="laptop">
+                <h3>Apple MacBook Air</h3>
+                <p>11.6 Inch/1.3GHz <br /> Haswell</p>
+                <div class="img"></div>
+                <div class="price">
+                    <p class="money">$1,729.00</p>
+                </div>
+            </div>
+        </a>
+        <a href="https://softuni.bg/">
+            <div id="laptop2" class="laptop">
+                <h3>Apple MacBook Air</h3>
+                <p>11.6 Inch/1.4GHz <br /> Haswell</p>
+                <div class="img" style="background-image:url(imgs/laptopNew.jpg) "></div>
+                <div class="price">
+                    <p class="money">$1,825.00</p>
+                </div>
+            </div>
+        </a>
+        <a href="https://softuni.bg/">
+            <div id="laptop3" class="laptop">
+                <h3>Apple MacBook Air</h3>
+                <p>13.3 Inch/1.3GHz <br /> Haswell</p>
+                <div class="img"></div>
+                <div class="price">
+                    <p class="money">$1,919.00</p>
+                </div>
+            </div>
+        </a>
+        <a href="https://softuni.bg/">
+            <div id="laptop4" class="laptop">
+                <h3>Apple MacBook Air</h3>
+                <p>11.6 Inch/1.4GHz <br /> Haswell</p>
+                <div class="img"></div>
+                <div class="price">
+                    <p class="money">$1,999.00</p>
+                </div>
+            </div>
+        </a>
+        <a href="https://softuni.bg/">
+            <div id="laptop5" class="laptop">
+                <h3>Apple MacBook Air</h3>
+                <p>11.6 Inch/1.3GHz <br /> Haswell 256GB SSD </p>
+                <div class="img" style="background-image:url(imgs/laptopNew.jpg) "></div>
+                <div class="price">
+                    <p class="money">$2,119.00</p>
+                </div>
+            </div>
+        </a>
+        <a href="https://softuni.bg/">
+            <div id="laptop6" class="laptop">
+                <h3>Apple MacBook Pro</h3>
+                <p>13.3 Inch/2.5GHz <br /> Ivy Bridge</p>
+                <div class="img" style="background-image:url(imgs/laptop2.jpg) "></div>
+                <div class="price">
+                    <p class="money">$2,529.00</p>
+                </div>
+            </div>
+        </a>
+
+
+</div>
+    <div id="sliders" class="sliders" >
+        <p class="label">Price</p>
+        <span class="min">1700</span>
+        <span class="max">2600</span>
+        <input type="range" min="1700" max="2600" id="price" class="slider"  />
+
+        <p class="label">RAM</p>
+        <span class="min">2048</span>
+        <span class="max">4096</span>
+        <input type="range" min="2048" max="4096" id="ram" class="slider" />
+
+        <p class="label">Disc</p>
+        <span class="min">100GB</span>
+        <span class="max">2000GB</span>
+        <input type="range" min="100" max="2000" id="disc" class="slider" />
+
+        <p class="label">Display</p>
+        <span class="min">11.6</span>
+        <span class="max">18.4</span>
+        <input type="range" min="11.6" max="18.4" id="display" class="slider" step="0.1" />
+        
+        <p class="label">Weight</p>
+        <span class="min">1</span>
+        <span class="max">6</span>
+        <input type="range" min="1" max="6" id="weight" class="slider" />
+
+        <p class="label">Warranty</p>
+        <span class="min">12 month</span>
+        <span class="max">60 month</span>
+        <input type="range" min="12" max="60" id="warranty" class="slider" />
+
+    </div>
+
+</body>
+</html>

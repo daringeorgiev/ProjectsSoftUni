@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework7\1. FibonacciNumbers\bin\Debug\_1.FibonacciNumbers.exe
+C:\Projects\IntroProgrammingHomework7\1. FibonacciNumbers\bin\Debug\_1.FibonacciNumbers.pdb
+C:\Projects\IntroProgrammingHomework7\1. FibonacciNumbers\obj\Debug\1. FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework7\1. FibonacciNumbers\obj\Debug\_1.FibonacciNumbers.exe
+C:\Projects\IntroProgrammingHomework7\1. FibonacciNumbers\obj\Debug\_1.FibonacciNumbers.pdb

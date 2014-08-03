@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework6\6. CalculateN!K!\bin\Debug\_6.CalculateN_K_.exe
+C:\Projects\IntroProgrammingHomework6\6. CalculateN!K!\bin\Debug\_6.CalculateN_K_.pdb
+C:\Projects\IntroProgrammingHomework6\6. CalculateN!K!\obj\Debug\6. CalculateN!K!.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework6\6. CalculateN!K!\obj\Debug\_6.CalculateN_K_.exe
+C:\Projects\IntroProgrammingHomework6\6. CalculateN!K!\obj\Debug\_6.CalculateN_K_.pdb

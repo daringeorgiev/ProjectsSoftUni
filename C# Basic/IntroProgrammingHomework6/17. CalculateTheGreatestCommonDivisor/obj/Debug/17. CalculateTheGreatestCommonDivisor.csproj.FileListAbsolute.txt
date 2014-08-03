@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework6\17. CalculateTheGreatestCommonDivisor\bin\Debug\_17.CalculateTheGreatestCommonDivisor.exe
+C:\Projects\IntroProgrammingHomework6\17. CalculateTheGreatestCommonDivisor\bin\Debug\_17.CalculateTheGreatestCommonDivisor.pdb
+C:\Projects\IntroProgrammingHomework6\17. CalculateTheGreatestCommonDivisor\obj\Debug\17. CalculateTheGreatestCommonDivisor.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework6\17. CalculateTheGreatestCommonDivisor\obj\Debug\_17.CalculateTheGreatestCommonDivisor.exe
+C:\Projects\IntroProgrammingHomework6\17. CalculateTheGreatestCommonDivisor\obj\Debug\_17.CalculateTheGreatestCommonDivisor.pdb

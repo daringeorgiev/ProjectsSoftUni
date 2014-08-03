@@ -1,0 +1,6 @@
+C:\Projects\Web Fundamentals\CSS-Presentation\CSS-Presentation\bin\CSS-Presentation.dll.config
+C:\Projects\Web Fundamentals\CSS-Presentation\CSS-Presentation\bin\CSS-Presentation.dll
+C:\Projects\Web Fundamentals\CSS-Presentation\CSS-Presentation\bin\CSS-Presentation.pdb
+C:\Projects\Web Fundamentals\CSS-Presentation\CSS-Presentation\obj\Debug\CSS-Presentation.csprojResolveAssemblyReference.cache
+C:\Projects\Web Fundamentals\CSS-Presentation\CSS-Presentation\obj\Debug\CSS-Presentation.dll
+C:\Projects\Web Fundamentals\CSS-Presentation\CSS-Presentation\obj\Debug\CSS-Presentation.pdb

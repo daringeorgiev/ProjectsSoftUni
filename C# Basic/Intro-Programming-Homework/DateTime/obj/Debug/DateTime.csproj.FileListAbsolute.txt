@@ -1,0 +1,6 @@
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\DateTime\bin\Debug\DateTime.exe.config
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\DateTime\bin\Debug\DateTime.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\DateTime\bin\Debug\DateTime.pdb
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\DateTime\obj\Debug\DateTime.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\DateTime\obj\Debug\DateTime.pdb

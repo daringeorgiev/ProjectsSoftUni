@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Magic Car Gallery</title>
+    <style>
+        main{
+            background-color: black;
+            text-align:center;
+            width: 800px;
+            height: 500px;
+            font-family: Tahoma;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        h1{
+            text-align: center;
+            font-size: 35px;
+            color: yellow;
+            margin-top: 0px;
+        }
+        section{
+            float: left;
+        }
+        aside{
+            float:left
+        }
+        a{
+            text-decoration:none;
+            font-size:28px;
+            color: white;
+        }
+        a:hover{
+            color: yellow;
+        }
+        iframe{
+            border: 3px solid yellow;
+            border-radius:5px;
+        }
+    </style>
+</head>
+<body>
+   
+    <main>
+        <header><h1>Car Gallery</h1></header>
+        <section>
+            <iframe name="cars" width="600" height="400" src="imgs/lada.jpg" frameborder="no" scrolling="no"></iframe>
+        </section>
+        <aside>
+            <ul style="text-align: left">
+                <li><a href="imgs/lada.jpg" target="cars">Lada</a></li>
+                <li><a href="imgs/trabant.jpg" target="cars">Trabant</a></li>
+                <li><a href="imgs/moskvich.jpg" target="cars">Moskvich</a></li>
+                <li><a href="imgs/volga.jpg" target="cars">Volga</a></li>
+                <li><a href="imgs/zaz.jpg" target="cars">ZAZ</a></li>
+            </ul>
+        </aside>
+    </main>
+</body>
+</html>

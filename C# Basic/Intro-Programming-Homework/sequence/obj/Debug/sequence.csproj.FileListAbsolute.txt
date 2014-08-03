@@ -1,0 +1,6 @@
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\sequence\bin\Debug\sequence.exe.config
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\sequence\obj\Debug\sequence.csprojResolveAssemblyReference.cache
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\sequence\bin\Debug\sequence.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\sequence\bin\Debug\sequence.pdb
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\sequence\obj\Debug\sequence.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\sequence\obj\Debug\sequence.pdb

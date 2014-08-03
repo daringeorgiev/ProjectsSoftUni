@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework4\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+C:\Projects\IntroProgrammingHomework4\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
+C:\Projects\IntroProgrammingHomework4\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+C:\Projects\IntroProgrammingHomework4\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb
+C:\Projects\IntroProgrammingHomework4\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework3\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+C:\Projects\IntroProgrammingHomework3\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+C:\Projects\IntroProgrammingHomework3\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+C:\Projects\IntroProgrammingHomework3\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb

@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework4\IntroProgrammingHomework4\bin\Debug\IntroProgrammingHomework4.exe
+C:\Projects\IntroProgrammingHomework4\IntroProgrammingHomework4\bin\Debug\IntroProgrammingHomework4.pdb
+C:\Projects\IntroProgrammingHomework4\IntroProgrammingHomework4\obj\Debug\SumОf3Numbers.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework4\IntroProgrammingHomework4\obj\Debug\IntroProgrammingHomework4.exe
+C:\Projects\IntroProgrammingHomework4\IntroProgrammingHomework4\obj\Debug\IntroProgrammingHomework4.pdb

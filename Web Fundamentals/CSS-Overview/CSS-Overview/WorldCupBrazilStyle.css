@@ -1,0 +1,166 @@
+﻿body {
+    background-color: #00923e;
+    font-family: Tahoma;
+    font-size: 16px;
+}
+
+table{
+   
+    border-radius: 10px;
+    width: 1000px;
+    text-align: center;
+    vertical-align: central;
+    background-color: black;
+}
+
+table tr{
+    
+    height: 45px;
+}
+
+table td{
+    padding: 5px;
+}
+
+
+table thead tr{
+    background-color: #f8c711;
+    font-weight: bold;
+    
+}
+table thead td.country1{
+    border-radius: 8px 0px 0px 0px;
+    
+}
+table thead td.betplace{
+    border-radius: 0px 8px 0px 0px;
+    
+}
+
+table tfoot td.country1Last{
+    border-radius: 0px 0px 0px 8px;
+    text-align:right;
+    width: 150px;
+}
+
+table tfoot td.bet{
+    border-radius: 0px 0px 8px 0px;
+}
+.odd{
+    background-color: #ffffff;
+}
+.even{
+    background-color: #c8c8c8;
+}
+.country1{
+    text-align:right;
+    width: 150px;
+    
+}
+.country2{
+    text-align:left;
+     width: 150px;
+}
+.inactiveSelect{
+    color:red;
+    background-color: #dcdcdc;
+    border-color:#808080;
+    height: 35px;
+}
+.activeSelect{
+    color:green;
+     background-color: white;
+    border-color:#808080;
+    height: 35px;
+}
+div.Brasil{
+    float:right;
+    margin-left: 5px;
+    width: 26px;
+    height: 17px;
+    background-image: url(imgs/flags/brasil.jpg);
+}
+div.Spain{
+    float:right;
+    margin-left: 5px;
+    width: 26px;
+    height: 17px;
+    background-image: url(imgs/flags/spain.jpg);
+}
+div.Italy{
+    float:right;
+    margin-left: 5px;
+    width: 26px;
+    height: 17px;
+    background-image: url(imgs/flags/italy.jpg);
+}
+div.Argentina{
+    float:right;
+    margin-left: 5px;
+    width: 26px;
+    height: 17px;
+    background-image: url(imgs/flags/argentina.jpg);
+}
+div.Germany{
+    float:right;
+    margin-left: 5px;
+    width: 26px;
+    height: 17px;
+    background-image: url(imgs/flags/germany.jpg);
+}
+div.Mexico{
+    float:left;
+    margin-right: 5px;
+    width: 26px;
+    height: 17px;
+    background-image: url(imgs/flags/mexico.jpg);
+}
+div.Netherlands{
+    float:left;
+    margin-right: 5px;
+    width: 26px;
+    height: 17px;
+    background-image: url(imgs/flags/netherlands.jpg);
+}
+div.England{
+    float:left;
+    margin-right: 5px;
+    width: 26px;
+    height: 17px;
+    background-image: url(imgs/flags/england.jpg);
+}
+div.Bosna{
+    float:left;
+    margin-right: 5px;
+    width: 26px;
+    height: 17px;
+    background-image: url(imgs/flags/bosna.jpg);
+}
+div.Portugal{
+    float:left;
+    margin-right: 5px;
+    width: 26px;
+    height: 17px;
+    background-image: url(imgs/flags/portugal.jpg);
+}
+.bet{
+    margin: 0;
+    padding: 2px;
+    width: 45px;
+    height: 45px;
+    
+}
+div.active{
+    height: 41px;
+    width: 41px;
+    padding: 0;
+    margin: 0;
+    background-image: url(imgs/bets/betGreen.png);
+}
+div.inactive{
+    height: 41px;
+    width: 41px;
+    padding: 0;
+    margin: 0;
+    background-image: url(imgs/bets/betRed.png);
+}

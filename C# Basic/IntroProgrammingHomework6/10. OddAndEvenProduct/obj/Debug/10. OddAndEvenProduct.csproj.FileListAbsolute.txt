@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework6\10. OddAndEvenProduct\obj\Debug\10. OddAndEvenProduct.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework6\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe
+C:\Projects\IntroProgrammingHomework6\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.pdb
+C:\Projects\IntroProgrammingHomework6\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.exe
+C:\Projects\IntroProgrammingHomework6\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.pdb

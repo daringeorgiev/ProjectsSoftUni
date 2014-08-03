@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework7\7. MatrixOfPalindromes\bin\Debug\_7.MatrixOfPalindromes.exe
+C:\Projects\IntroProgrammingHomework7\7. MatrixOfPalindromes\bin\Debug\_7.MatrixOfPalindromes.pdb
+C:\Projects\IntroProgrammingHomework7\7. MatrixOfPalindromes\obj\Debug\_7.MatrixOfPalindromes.exe
+C:\Projects\IntroProgrammingHomework7\7. MatrixOfPalindromes\obj\Debug\_7.MatrixOfPalindromes.pdb
+C:\Projects\IntroProgrammingHomework7\7. MatrixOfPalindromes\obj\Debug\7. MatrixOfPalindromes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework6\8. CatalanNumbers\bin\Debug\_8.CatalanNumbers.exe
+C:\Projects\IntroProgrammingHomework6\8. CatalanNumbers\bin\Debug\_8.CatalanNumbers.pdb
+C:\Projects\IntroProgrammingHomework6\8. CatalanNumbers\obj\Debug\_8.CatalanNumbers.exe
+C:\Projects\IntroProgrammingHomework6\8. CatalanNumbers\obj\Debug\_8.CatalanNumbers.pdb

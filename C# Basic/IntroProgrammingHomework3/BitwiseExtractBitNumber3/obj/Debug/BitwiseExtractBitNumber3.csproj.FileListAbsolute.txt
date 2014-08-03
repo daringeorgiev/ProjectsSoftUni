@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework3\BitwiseExtractBitNumber3\obj\Debug\BitwiseExtractBitNumber3.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework3\BitwiseExtractBitNumber3\bin\Debug\BitwiseExtractBitNumber3.exe
+C:\Projects\IntroProgrammingHomework3\BitwiseExtractBitNumber3\bin\Debug\BitwiseExtractBitNumber3.pdb
+C:\Projects\IntroProgrammingHomework3\BitwiseExtractBitNumber3\obj\Debug\BitwiseExtractBitNumber3.exe
+C:\Projects\IntroProgrammingHomework3\BitwiseExtractBitNumber3\obj\Debug\BitwiseExtractBitNumber3.pdb

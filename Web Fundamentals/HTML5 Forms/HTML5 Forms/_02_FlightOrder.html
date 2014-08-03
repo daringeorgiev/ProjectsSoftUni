@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Flight Order</title>
+    <style>
+        td{
+            width: 220px;
+            vertical-align: central;
+            font-style:italic;
+            font-size: 12px;
+            text-align:left;
+        }
+        select {
+            width: 100%;
+            text-align: center;
+            border-style: none;
+            text-decoration: none;
+        
+        }
+        input{
+            width: 98%;
+            text-align:left;
+            border-style:none;
+            text-decoration:none;
+          
+        }
+    </style>
+</head>
+<body >
+    <div style="width: 500px; height: 330px; background-color: pink; font-family: Tahoma;">
+        
+        <h1 style="text-align:center; padding-top: 10px;">FLIGHT ORDER</h1>
+        <table border="0" align="center">
+            <tr>
+                <td ><i>From</i></td>
+                <td><i>To</i></td>
+            </tr>
+            <tr>
+                <td>
+                    <select name="city_from" id="city_from" >
+                        <option value="Value 1" selected="selected">enter a city</option>
+                        <option value="Value 2" >Sofia</option>
+                        <option value="Value 3">Montana</option>
+                        <option value="Value 4">Other</option>
+                    </select>
+                </td>
+                <td>
+                    <select name="city_to" id="city_to">
+                        <option value="Value 1" selected="selected">enter a city</option>
+                        <option value="Value 2">Sofia</option>
+                        <option value="Value 3">Montana</option>
+                        <option value="Value 4">Other</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="checkbox" id="prefered_direct" style="float:left; text-align:left; width:10%;"/><label style="float:left; text-align:left">Prefered directs</label></td>
+            </tr>
+            <tr>
+                <td>Departure Date</td>
+                <td>Time interval</td>
+            </tr>
+            <tr>
+                <td><input type="date" value="18/06/2014" id="date"/></td>
+                <td><input type="time" value="00:20" style="width:45%" id="time_from"/>   <input type="time" value="05:00" style="width:45%; float:right;" id="time_to" /></td>
+            </tr>
+            <tr>
+                <td>Return Date</td>
+                <td>Time interval</td>
+            </tr>
+            <tr>
+                <td><input type="date" value="22/06/2014" id="date" /></td>
+                <td><input type="time" value="16:00" style="width:45%" id="time_from" />   <input type="time" value="22:00" style="width:45%; float:right;" id="time_to" /></td>
+            </tr>
+            <tr>
+                <td rowspan="2">
+                    <table>
+                        <tr>
+                            <td>12+</td>
+                            <td>2-12</td>
+                            <td>0-2</td>
+                        </tr>
+                        <tr>
+                            <td><input type="number" min="12" max="100" style="width: 95%;"/></td>
+                            <td><input type="number" min="2" max="11" style="width: 95%;" /></td>
+                            <td><input type="number" min="0" max="2" style="width: 95%;" /></td>
+                        </tr>
+                    </table>
+
+                </td>
+                <td>Choose class</td>
+            </tr>
+            <tr>
+                <td>
+                    <select name="class" id="class">
+                        <option>Economy</option>
+                        <option>Business</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button style="width:100%; height:30px;">Search</button></td>
+            </tr>
+        </table>
+
+    </div>
+</body>
+</html>

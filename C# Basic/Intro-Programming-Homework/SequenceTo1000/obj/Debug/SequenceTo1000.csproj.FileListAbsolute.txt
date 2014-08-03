@@ -1,0 +1,12 @@
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\SequenceTo1000\bin\Debug\SequenceTo1000.exe.config
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\SequenceTo1000\bin\Debug\SequenceTo1000.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\SequenceTo1000\bin\Debug\SequenceTo1000.pdb
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\SequenceTo1000\obj\Debug\SequenceTo1000.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\SequenceTo1000\obj\Debug\SequenceTo1000.pdb
+C:\Projects\Answers of lection 1\SequenceTo1000\bin\Debug\SequenceTo1000.exe.config
+C:\Projects\Answers of lection 1\SequenceTo1000\obj\Debug\SequenceTo1000.exe
+C:\Projects\Answers of lection 1\SequenceTo1000\obj\Debug\SequenceTo1000.pdb
+C:\Projects\Intro-Programming-Homework\SequenceTo1000\bin\Debug\SequenceTo1000.exe
+C:\Projects\Intro-Programming-Homework\SequenceTo1000\bin\Debug\SequenceTo1000.pdb
+C:\Projects\Intro-Programming-Homework\SequenceTo1000\obj\Debug\SequenceTo1000.exe
+C:\Projects\Intro-Programming-Homework\SequenceTo1000\obj\Debug\SequenceTo1000.pdb

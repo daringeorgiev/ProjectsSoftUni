@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework7\5. SortingNumbers\bin\Debug\_5.SortingNumbers.exe
+C:\Projects\IntroProgrammingHomework7\5. SortingNumbers\bin\Debug\_5.SortingNumbers.pdb
+C:\Projects\IntroProgrammingHomework7\5. SortingNumbers\obj\Debug\5. SortingNumbers.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework7\5. SortingNumbers\obj\Debug\_5.SortingNumbers.exe
+C:\Projects\IntroProgrammingHomework7\5. SortingNumbers\obj\Debug\_5.SortingNumbers.pdb

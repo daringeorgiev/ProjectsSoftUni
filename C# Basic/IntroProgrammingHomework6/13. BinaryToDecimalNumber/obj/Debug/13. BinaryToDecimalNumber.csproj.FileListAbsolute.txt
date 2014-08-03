@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework6\13. BinaryToDecimalNumber\obj\Debug\13. BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework6\13. BinaryToDecimalNumber\bin\Debug\_13.BinaryToDecimalNumber.exe
+C:\Projects\IntroProgrammingHomework6\13. BinaryToDecimalNumber\bin\Debug\_13.BinaryToDecimalNumber.pdb
+C:\Projects\IntroProgrammingHomework6\13. BinaryToDecimalNumber\obj\Debug\_13.BinaryToDecimalNumber.exe
+C:\Projects\IntroProgrammingHomework6\13. BinaryToDecimalNumber\obj\Debug\_13.BinaryToDecimalNumber.pdb

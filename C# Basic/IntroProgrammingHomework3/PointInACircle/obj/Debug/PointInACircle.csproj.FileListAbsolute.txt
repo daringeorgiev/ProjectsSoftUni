@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework3\PointInACircle\bin\Debug\PointInACircle.exe
+C:\Projects\IntroProgrammingHomework3\PointInACircle\bin\Debug\PointInACircle.pdb
+C:\Projects\IntroProgrammingHomework3\PointInACircle\obj\Debug\PointInACircle.exe
+C:\Projects\IntroProgrammingHomework3\PointInACircle\obj\Debug\PointInACircle.pdb

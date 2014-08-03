@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework2\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Projects\IntroProgrammingHomework2\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Projects\IntroProgrammingHomework2\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework2\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Projects\IntroProgrammingHomework2\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

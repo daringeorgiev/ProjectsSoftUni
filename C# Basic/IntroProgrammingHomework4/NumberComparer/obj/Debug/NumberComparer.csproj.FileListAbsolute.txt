@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework4\NumberComparer\bin\Debug\NumberComparer.exe
+C:\Projects\IntroProgrammingHomework4\NumberComparer\bin\Debug\NumberComparer.pdb
+C:\Projects\IntroProgrammingHomework4\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Projects\IntroProgrammingHomework4\NumberComparer\obj\Debug\NumberComparer.pdb

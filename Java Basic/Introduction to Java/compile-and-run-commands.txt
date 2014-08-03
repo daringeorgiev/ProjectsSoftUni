@@ -1,0 +1,10 @@
+Problem 7.	Console-Based Compilation
+
+1. Navigate to SumTwoNumbers.java:
+	cd ~/workspace/Intro-Java-Homework/src
+
+2. Compilate by javac (with administrator permisions):
+	sudo javac SumTwoNumbers.java 
+
+3. Run program:
+	java SumTwoNumbers

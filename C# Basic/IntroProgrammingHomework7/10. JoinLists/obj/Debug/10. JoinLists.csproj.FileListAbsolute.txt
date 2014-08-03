@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework7\10. JoinLists\obj\Debug\10. JoinLists.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework7\10. JoinLists\bin\Debug\_10.JoinLists.exe
+C:\Projects\IntroProgrammingHomework7\10. JoinLists\bin\Debug\_10.JoinLists.pdb
+C:\Projects\IntroProgrammingHomework7\10. JoinLists\obj\Debug\_10.JoinLists.exe
+C:\Projects\IntroProgrammingHomework7\10. JoinLists\obj\Debug\_10.JoinLists.pdb

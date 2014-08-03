@@ -1,0 +1,6 @@
+C:\Projects\Web Fundamentals\WebExam\WebExam\bin\WebExam.dll.config
+C:\Projects\Web Fundamentals\WebExam\WebExam\bin\WebExam.dll
+C:\Projects\Web Fundamentals\WebExam\WebExam\bin\WebExam.pdb
+C:\Projects\Web Fundamentals\WebExam\WebExam\obj\Debug\WebExam.csprojResolveAssemblyReference.cache
+C:\Projects\Web Fundamentals\WebExam\WebExam\obj\Debug\WebExam.dll
+C:\Projects\Web Fundamentals\WebExam\WebExam\obj\Debug\WebExam.pdb

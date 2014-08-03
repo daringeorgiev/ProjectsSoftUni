@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework6\5. Calculate1X\obj\Debug\5. Calculate1X.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework6\5. Calculate1X\bin\Debug\_5.Calculate1X.exe
+C:\Projects\IntroProgrammingHomework6\5. Calculate1X\bin\Debug\_5.Calculate1X.pdb
+C:\Projects\IntroProgrammingHomework6\5. Calculate1X\obj\Debug\_5.Calculate1X.exe
+C:\Projects\IntroProgrammingHomework6\5. Calculate1X\obj\Debug\_5.Calculate1X.pdb

@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework5\7. Sort3NumbersWithNestedIfs\bin\Debug\_7.Sort3NumbersWithNestedIfs.exe
+C:\Projects\IntroProgrammingHomework5\7. Sort3NumbersWithNestedIfs\bin\Debug\_7.Sort3NumbersWithNestedIfs.pdb
+C:\Projects\IntroProgrammingHomework5\7. Sort3NumbersWithNestedIfs\obj\Debug\_7.Sort3NumbersWithNestedIfs.exe
+C:\Projects\IntroProgrammingHomework5\7. Sort3NumbersWithNestedIfs\obj\Debug\_7.Sort3NumbersWithNestedIfs.pdb

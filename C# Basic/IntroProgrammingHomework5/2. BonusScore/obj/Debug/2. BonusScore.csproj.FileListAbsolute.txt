@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework5\2. BonusScore\bin\Debug\_2.BonusScore.exe
+C:\Projects\IntroProgrammingHomework5\2. BonusScore\bin\Debug\_2.BonusScore.pdb
+C:\Projects\IntroProgrammingHomework5\2. BonusScore\obj\Debug\_2.BonusScore.exe
+C:\Projects\IntroProgrammingHomework5\2. BonusScore\obj\Debug\_2.BonusScore.pdb

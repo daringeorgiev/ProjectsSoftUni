@@ -1,0 +1,231 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>BGJUG WebPage</title>
+    <style>
+        html, body, header, nav, h1, form, a, aside, main, span, h2, h3, h4 {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        #search {
+            display: inline-block;
+            width: 225px;
+        }
+
+        nav {
+            display: inline-block;
+            width: 1100px;
+        }
+
+        h1 {
+            display: block;
+            margin-bottom: 50px;
+            padding-left: 20px;
+        }
+
+        a {
+            display: inline-block;
+            text-decoration: none;
+            color: #B8B8B8;
+            margin-left: 70px;
+        }
+
+        a:hover {
+            color:orange;
+        }
+
+        #leftside {
+            display: inline-block;
+            width: 160px;
+            height: 500px;
+            vertical-align: top;
+        }
+
+        #whitespace {
+            height: 30px;
+        }
+
+        #leftside a {
+            display: block;
+            color: blue;
+            margin-left: 10px;
+        }
+
+        #leftside a:hover {
+            display: block;
+            color: red;
+            margin-left: 10px;
+        }
+
+        main {
+            display: inline-block;
+            width: 950px;
+            height: 500px;
+            padding: 10px;
+        }
+
+            main section {
+                width: 600px;
+                margin-left: 30px;
+            }
+
+                main section span {
+                    font-family: monospace;
+                    font-size: 12px;
+                }
+
+            main a {
+                margin: 0;
+                color: blue;
+            }
+
+        #rightside {
+            display: inline-block;
+            vertical-align: top;
+            height: 500px;
+            width: 200px;
+        }
+
+        #tweetmsg {
+            height: 30px;
+            line-height: 30px;
+            padding-left: 30px;
+            background: #E0E0E0;
+            color: #B8B8B8;
+        }
+
+        footer {
+            height: 150px;
+            background: black;
+            color: white;
+            padding: 5px;
+        }
+
+            footer section {
+                display: inline-block;
+                width: 200px;
+                height: 140px;
+                vertical-align: top;
+                margin-left: 50px;
+            }
+
+            footer p {
+                color: #B8B8B8;
+            }
+
+            footer a {
+                color: white;
+                margin-left: 0;
+            }
+
+            footer h3 {
+                margin-bottom: 10px;
+            }
+        
+    </style>
+</head>
+<body>
+    <header>
+        <h1>BGJUG - Bulgarian Java User Group</h1>
+        <nav >
+            <a href="#">ABOUT</a>
+            <a href="#">EVENTS</a>
+            <a href="#">CONTACTS</a>
+        </nav>
+        <div id="search">
+            <form method="post">
+                <input type="text" name="search" />
+                <input type="submit" name="btnsearch" value="Search" />
+            </form>
+        </div>
+    </header>
+    <hr />
+    <aside id="leftside">
+        <div id="whitespace"></div>
+        <hr />
+        <a href="#">An architecture for E-Voting</a><br />
+        <a href="#">Integration Tests for External Services</a><br />
+        <a href="#">Algorithmic Music Influenced by Tweets</a><br />
+        <a href="#">The Low Quality Of Scientific Code</a><br />
+        <a href="#">Development "Methodologies"</a><br />
+    </aside>
+    <main>
+        <section>
+            <h2>An architecture for E-Voting</h2>
+            <span>
+                by Bozho on <time datetime="30.05.2014">30.05.2014</time>
+                - <a href="#">LEAVE A COMMENT</a>
+            </span>
+
+            <article>
+                <p> E-voting is a hot topic in my country,and has been discussed a lot everywhere.
+                 Since we are already using the internet and touch-screen technologies in our everyday lives,
+                 why not apply that to voting? And not for the sake of technology itself, but in order to
+                 prevent technical mistakes and election fraud, and make [...]</p>
+            </article>
+            <a href="#">Continue Reading &#8640;</a>
+        </section>
+        <br />
+        <section>
+            <h2>An architecture for E-Voting</h2>
+            <span>
+                by Bozho on <time datetime="01.05.2014">01.05.2014</time>
+                - <a href="#">LEAVE A COMMENT</a>
+            </span>
+
+            <article>
+                <p> Java 8 introduces the Optional class. In a nutshell, instead of returning null,
+                and then checking for null, you return an Optional instance, which can either have
+                or not have a value set. That way you don’t fail with NullPointerException. I won’t
+                discuss whether the Optional type will eliminate NPEs completely (it won’t). Instead I’ll […]</p>
+            </article>
+            <a href="#">Continue Reading &#8640;</a>
+            <br />
+        </section>
+        <hr />
+        <br />
+        <a href="#">&#8636;Previous Entries</a>
+    </main>
+    <aside id="rightside">
+        <h3>LANGUAGE</h3>
+        <hr />
+        <form method="get">
+            <select>
+                <option value="bg" selected>Bulgaria</option>
+                <option value="eng">England</option>
+                <option value="rssa">Russia</option>
+            </select>
+        </form>
+        <h3>BLOGROLL</h3>
+        <hr />
+    </aside>
+    <div id="tweetmsg">
+        <span>Set your twitter account name in your settings to use the Tweeter section</span>
+    </div>
+    <footer>
+        <section>
+            <h3>BGJUG - Java Bulgarian User Group</h3>
+        </section>
+        <section>
+            <h3>PAGES</h3>
+            <a href="#">About</a><br />
+            <a href="#">Events</a><br />
+            <a href="#">Contacts</a><br />
+        </section>
+        <section>
+            <h3>THE LATEST</h3>
+            <a href="#"><h4>An Architecture for E-Voting</h4></a>
+            <p style="margin-top:0px;">E-Voting is a hot topic in my country and has been discussed [...]</p>
+        </section>
+        <section>
+            <h3>MORE</h3>
+            <p>Thanks for dropping by! Feel free to join the discussion by leaving comments, and stay updated by subscribing to <span>RSS Feed</span></p>
+        </section>
+        <section>
+            <p>&#169; 2011 - BGJUG - Java Bulgarian User Group</p>
+        </section>
+    </footer>
+
+</body>
+</html>

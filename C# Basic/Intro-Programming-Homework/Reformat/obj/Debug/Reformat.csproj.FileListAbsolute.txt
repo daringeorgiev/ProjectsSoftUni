@@ -1,0 +1,9 @@
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\Reformat\bin\Debug\Reformat.exe.config
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\Reformat\bin\Debug\Reformat.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\Reformat\bin\Debug\Reformat.pdb
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\Reformat\obj\Debug\Reformat.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\Reformat\obj\Debug\Reformat.pdb
+C:\Projects\Intro-Programming-Homework\Reformat\bin\Debug\Reformat.exe
+C:\Projects\Intro-Programming-Homework\Reformat\bin\Debug\Reformat.pdb
+C:\Projects\Intro-Programming-Homework\Reformat\obj\Debug\Reformat.exe
+C:\Projects\Intro-Programming-Homework\Reformat\obj\Debug\Reformat.pdb

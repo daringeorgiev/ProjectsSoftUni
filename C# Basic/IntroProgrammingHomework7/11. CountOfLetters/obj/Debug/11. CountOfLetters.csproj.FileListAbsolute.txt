@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework7\11. CountOfLetters\obj\Debug\11. CountOfLetters.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework7\11. CountOfLetters\bin\Debug\_11.CountOfLetters.exe
+C:\Projects\IntroProgrammingHomework7\11. CountOfLetters\bin\Debug\_11.CountOfLetters.pdb
+C:\Projects\IntroProgrammingHomework7\11. CountOfLetters\obj\Debug\_11.CountOfLetters.exe
+C:\Projects\IntroProgrammingHomework7\11. CountOfLetters\obj\Debug\_11.CountOfLetters.pdb

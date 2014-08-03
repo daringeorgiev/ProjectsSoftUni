@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework3\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe
+C:\Projects\IntroProgrammingHomework3\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.pdb
+C:\Projects\IntroProgrammingHomework3\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.exe
+C:\Projects\IntroProgrammingHomework3\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.pdb

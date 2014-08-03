@@ -1,0 +1,6 @@
+C:\Projects\Web Fundamentals\CSS-Overview\CSS-Overview\bin\CSS-Overview.dll.config
+C:\Projects\Web Fundamentals\CSS-Overview\CSS-Overview\bin\CSS-Overview.dll
+C:\Projects\Web Fundamentals\CSS-Overview\CSS-Overview\bin\CSS-Overview.pdb
+C:\Projects\Web Fundamentals\CSS-Overview\CSS-Overview\obj\Debug\CSS-Overview.csprojResolveAssemblyReference.cache
+C:\Projects\Web Fundamentals\CSS-Overview\CSS-Overview\obj\Debug\CSS-Overview.dll
+C:\Projects\Web Fundamentals\CSS-Overview\CSS-Overview\obj\Debug\CSS-Overview.pdb

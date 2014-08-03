@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework4\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+C:\Projects\IntroProgrammingHomework4\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb
+C:\Projects\IntroProgrammingHomework4\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework4\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+C:\Projects\IntroProgrammingHomework4\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb

@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework4\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+C:\Projects\IntroProgrammingHomework4\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+C:\Projects\IntroProgrammingHomework4\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+C:\Projects\IntroProgrammingHomework4\FormattingNumbers\obj\Debug\FormattingNumbers.pdb
+C:\Projects\IntroProgrammingHomework4\FormattingNumbers\obj\Debug\FormattingNumbers.csprojResolveAssemblyReference.cache

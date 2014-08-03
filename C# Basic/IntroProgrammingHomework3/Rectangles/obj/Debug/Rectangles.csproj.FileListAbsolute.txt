@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework3\Rectangles\bin\Debug\Rectangles.exe
+C:\Projects\IntroProgrammingHomework3\Rectangles\bin\Debug\Rectangles.pdb
+C:\Projects\IntroProgrammingHomework3\Rectangles\obj\Debug\Rectangles.exe
+C:\Projects\IntroProgrammingHomework3\Rectangles\obj\Debug\Rectangles.pdb

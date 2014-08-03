@@ -1,0 +1,6 @@
+C:\Projects\Web Fundamentals\HTML5 Tables\HTML5Tables\HTML5Tables\bin\HTML5Tables.dll.config
+C:\Projects\Web Fundamentals\HTML5 Tables\HTML5Tables\HTML5Tables\bin\HTML5Tables.dll
+C:\Projects\Web Fundamentals\HTML5 Tables\HTML5Tables\HTML5Tables\bin\HTML5Tables.pdb
+C:\Projects\Web Fundamentals\HTML5 Tables\HTML5Tables\HTML5Tables\obj\Debug\HTML5Tables.csprojResolveAssemblyReference.cache
+C:\Projects\Web Fundamentals\HTML5 Tables\HTML5Tables\HTML5Tables\obj\Debug\HTML5Tables.dll
+C:\Projects\Web Fundamentals\HTML5 Tables\HTML5Tables\HTML5Tables\obj\Debug\HTML5Tables.pdb

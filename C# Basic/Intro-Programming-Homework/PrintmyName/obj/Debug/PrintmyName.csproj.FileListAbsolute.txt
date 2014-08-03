@@ -1,0 +1,10 @@
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\PrintmyName\bin\Debug\PrintmyName.exe.config
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\PrintmyName\bin\Debug\PrintmyName.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\PrintmyName\bin\Debug\PrintmyName.pdb
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\PrintmyName\obj\Debug\PrintmyName.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\PrintmyName\obj\Debug\PrintmyName.pdb
+C:\Projects\Intro-Programming-Homework\PrintmyName\bin\Debug\PrintmyName.exe
+C:\Projects\Intro-Programming-Homework\PrintmyName\bin\Debug\PrintmyName.pdb
+C:\Projects\Intro-Programming-Homework\PrintmyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
+C:\Projects\Intro-Programming-Homework\PrintmyName\obj\Debug\PrintmyName.exe
+C:\Projects\Intro-Programming-Homework\PrintmyName\obj\Debug\PrintmyName.pdb

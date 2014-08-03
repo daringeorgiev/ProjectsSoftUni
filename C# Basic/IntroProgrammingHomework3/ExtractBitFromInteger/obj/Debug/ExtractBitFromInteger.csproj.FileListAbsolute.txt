@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework3\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+C:\Projects\IntroProgrammingHomework3\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+C:\Projects\IntroProgrammingHomework3\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+C:\Projects\IntroProgrammingHomework3\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb

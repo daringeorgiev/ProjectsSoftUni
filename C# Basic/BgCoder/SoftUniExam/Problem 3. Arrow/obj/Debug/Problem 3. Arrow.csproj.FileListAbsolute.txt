@@ -1,0 +1,4 @@
+C:\Projects\BgCoder\SoftUniExam\Problem 3. Arrow\bin\Debug\Problem_3.Arrow.exe
+C:\Projects\BgCoder\SoftUniExam\Problem 3. Arrow\bin\Debug\Problem_3.Arrow.pdb
+C:\Projects\BgCoder\SoftUniExam\Problem 3. Arrow\obj\Debug\Problem_3.Arrow.exe
+C:\Projects\BgCoder\SoftUniExam\Problem 3. Arrow\obj\Debug\Problem_3.Arrow.pdb

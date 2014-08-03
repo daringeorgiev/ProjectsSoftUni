@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework7\13. AverageLoadTimeCalculator\bin\Debug\_13.AverageLoadTimeCalculator.exe
+C:\Projects\IntroProgrammingHomework7\13. AverageLoadTimeCalculator\bin\Debug\_13.AverageLoadTimeCalculator.pdb
+C:\Projects\IntroProgrammingHomework7\13. AverageLoadTimeCalculator\obj\Debug\13. AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework7\13. AverageLoadTimeCalculator\obj\Debug\_13.AverageLoadTimeCalculator.exe
+C:\Projects\IntroProgrammingHomework7\13. AverageLoadTimeCalculator\obj\Debug\_13.AverageLoadTimeCalculator.pdb

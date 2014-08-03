@@ -1,0 +1,16 @@
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\AgesAfter10Years\bin\Debug\AgesAfter10Years.exe.config
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\AgesAfter10Years\bin\Debug\AgesAfter10Years.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\AgesAfter10Years\bin\Debug\AgesAfter10Years.pdb
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\AgesAfter10Years\obj\Debug\AgesAfter10Years.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\AgesAfter10Years\obj\Debug\AgesAfter10Years.pdb
+C:\Projects\Answers of lection 1\AgesAfter10Years\bin\Debug\AgesAfter10Years.exe.config
+C:\Projects\Answers of lection 1\AgesAfter10Years\obj\Debug\AgesAfter10Years.exe
+C:\Projects\Answers of lection 1\AgesAfter10Years\obj\Debug\AgesAfter10Years.pdb
+C:\Projects\Answers of lection 1\AgesAfter10Years\bin\Debug\AgesAfter10Years.exe
+C:\Projects\Answers of lection 1\AgesAfter10Years\bin\Debug\AgesAfter10Years.pdb
+C:\Projects\Answers of lection 1\AgesAfter10Years\obj\Debug\AgesAfter10Years.csprojResolveAssemblyReference.cache
+C:\Projects\Intro-Programming-Homework\AgesAfter10Years\obj\Debug\AgesAfter10Years.exe
+C:\Projects\Intro-Programming-Homework\AgesAfter10Years\obj\Debug\AgesAfter10Years.pdb
+C:\Projects\Intro-Programming-Homework\AgesAfter10Years\bin\Debug\AgesAfter10Years.exe
+C:\Projects\Intro-Programming-Homework\AgesAfter10Years\bin\Debug\AgesAfter10Years.pdb
+C:\Projects\Intro-Programming-Homework\AgesAfter10Years\obj\Debug\AgesAfter10Years.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Projects\BgCoder\BgCoder\Problem 2. AngryFemaleGPS\obj\Debug\Problem 2. AngryFemaleGPS.csprojResolveAssemblyReference.cache
+C:\Projects\BgCoder\BgCoder\Problem 2. AngryFemaleGPS\bin\Debug\Problem_2.AngryFemaleGPS.exe
+C:\Projects\BgCoder\BgCoder\Problem 2. AngryFemaleGPS\bin\Debug\Problem_2.AngryFemaleGPS.pdb
+C:\Projects\BgCoder\BgCoder\Problem 2. AngryFemaleGPS\obj\Debug\Problem_2.AngryFemaleGPS.exe
+C:\Projects\BgCoder\BgCoder\Problem 2. AngryFemaleGPS\obj\Debug\Problem_2.AngryFemaleGPS.pdb

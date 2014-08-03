@@ -1,0 +1,5 @@
+C:\Projects\BgCoder\SoftUniExam\Problem2\bin\Debug\Problem2.exe
+C:\Projects\BgCoder\SoftUniExam\Problem2\bin\Debug\Problem2.pdb
+C:\Projects\BgCoder\SoftUniExam\Problem2\obj\Debug\Problem2.csprojResolveAssemblyReference.cache
+C:\Projects\BgCoder\SoftUniExam\Problem2\obj\Debug\Problem2.exe
+C:\Projects\BgCoder\SoftUniExam\Problem2\obj\Debug\Problem2.pdb

@@ -1,0 +1,6 @@
+C:\Projects\Web Fundamentals\ResponsiveDesign\ResponsiveDesign\bin\ResponsiveDesign.dll.config
+C:\Projects\Web Fundamentals\ResponsiveDesign\ResponsiveDesign\bin\ResponsiveDesign.dll
+C:\Projects\Web Fundamentals\ResponsiveDesign\ResponsiveDesign\bin\ResponsiveDesign.pdb
+C:\Projects\Web Fundamentals\ResponsiveDesign\ResponsiveDesign\obj\Debug\ResponsiveDesign.csprojResolveAssemblyReference.cache
+C:\Projects\Web Fundamentals\ResponsiveDesign\ResponsiveDesign\obj\Debug\ResponsiveDesign.dll
+C:\Projects\Web Fundamentals\ResponsiveDesign\ResponsiveDesign\obj\Debug\ResponsiveDesign.pdb

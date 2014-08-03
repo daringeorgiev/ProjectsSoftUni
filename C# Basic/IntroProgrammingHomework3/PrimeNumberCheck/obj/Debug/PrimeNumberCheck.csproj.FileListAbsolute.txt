@@ -1,0 +1,5 @@
+C:\Projects\IntroProgrammingHomework3\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Projects\IntroProgrammingHomework3\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Projects\IntroProgrammingHomework3\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Projects\IntroProgrammingHomework3\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Projects\IntroProgrammingHomework3\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

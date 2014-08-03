@@ -1,0 +1,17 @@
+Problem 10.	JAR Archive + Console Execution
+
+From Eclipse:
+1. Right click in Package Explorer on project
+2. Click on Export
+3. Select Java>>Runnable JAR fiel and click Next
+4. Launch configuration
+5. Set export destination
+6. Libary handling: Package required libarries into generated JAR
+7. Click Finish
+
+From console:
+1. Navigate to export destination:
+	cd ~/workspace
+2. Run jar:
+	java -jar name.jar
+

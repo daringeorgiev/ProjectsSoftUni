@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework6\7. CalculateN!K!SecondTime\bin\Debug\_7.CalculateN_K_SecondTime.exe
+C:\Projects\IntroProgrammingHomework6\7. CalculateN!K!SecondTime\bin\Debug\_7.CalculateN_K_SecondTime.pdb
+C:\Projects\IntroProgrammingHomework6\7. CalculateN!K!SecondTime\obj\Debug\_7.CalculateN_K_SecondTime.exe
+C:\Projects\IntroProgrammingHomework6\7. CalculateN!K!SecondTime\obj\Debug\_7.CalculateN_K_SecondTime.pdb

@@ -1,0 +1,4 @@
+C:\Projects\IntroProgrammingHomework6\2. NumbersNotDivisibleBy3And7\bin\Debug\_2.NumbersNotDivisibleBy3And7.exe
+C:\Projects\IntroProgrammingHomework6\2. NumbersNotDivisibleBy3And7\bin\Debug\_2.NumbersNotDivisibleBy3And7.pdb
+C:\Projects\IntroProgrammingHomework6\2. NumbersNotDivisibleBy3And7\obj\Debug\_2.NumbersNotDivisibleBy3And7.exe
+C:\Projects\IntroProgrammingHomework6\2. NumbersNotDivisibleBy3And7\obj\Debug\_2.NumbersNotDivisibleBy3And7.pdb

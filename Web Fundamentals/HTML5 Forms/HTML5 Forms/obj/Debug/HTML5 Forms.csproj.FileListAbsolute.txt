@@ -1,0 +1,6 @@
+C:\Projects\Web Fundamentals\HTML5 Forms\HTML5 Forms\bin\HTML5 Forms.dll.config
+C:\Projects\Web Fundamentals\HTML5 Forms\HTML5 Forms\bin\HTML5 Forms.dll
+C:\Projects\Web Fundamentals\HTML5 Forms\HTML5 Forms\bin\HTML5 Forms.pdb
+C:\Projects\Web Fundamentals\HTML5 Forms\HTML5 Forms\obj\Debug\HTML5 Forms.csprojResolveAssemblyReference.cache
+C:\Projects\Web Fundamentals\HTML5 Forms\HTML5 Forms\obj\Debug\HTML5 Forms.dll
+C:\Projects\Web Fundamentals\HTML5 Forms\HTML5 Forms\obj\Debug\HTML5 Forms.pdb

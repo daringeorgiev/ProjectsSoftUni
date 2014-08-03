@@ -1,0 +1,13 @@
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\da\documents\visual studio 2013\Projects\Answers of lection 1\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Projects\Answers of lection 1\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Projects\Answers of lection 1\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Projects\Answers of lection 1\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Projects\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Projects\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Projects\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
+C:\Projects\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Projects\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb
